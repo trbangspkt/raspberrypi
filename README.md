@@ -1,7 +1,5 @@
 # Code MPU6050 and MAX7219
 Embedded System at HCMUTE
-## Wiring diagram raspberry with MPU6050 and max7219
-![Image.](Connection.png)
 
 ## Hardware connection
  
@@ -12,6 +10,12 @@ Embedded System at HCMUTE
 |           3          |       SDA       |   |          19         |       DIN       |
 |           5          |       SCL       |   |          24         |        CS       |
 |                      |                 |   |          23         |       CLK       |  
+
+## Wiring diagram raspberry with MPU6050 and max7219
+![Image.](/pic/Connection.png)
+
+## Demo
+![demo.](/pic/demo.jpg)
 
 ## Compile and run the program
 Download all file to the same path on raspberry.
