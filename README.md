@@ -17,6 +17,17 @@ Embedded System at HCMUTE
 ## Demo
 ![demo.](/pic/demo.jpg)
 
+## Create static libraries
+```
+  # cd "path"/lib
+
+  # First Step
+  make build
+
+  # Create static libraries
+  make create
+```
+
 ## Compile and run the program
 Download all file to the same path on raspberry.
 
@@ -33,13 +44,4 @@ Download all file to the same path on raspberry.
   # Run
   ./run
 ```
-## Create static libraries
-```
-  # cd "path"/lib
 
-  # First Step
-  make build
-
-  # Create static libraries
-  make create
-```
