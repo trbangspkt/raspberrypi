@@ -1,5 +1,5 @@
 # Code MPU6050 and MAX7219
-Embedded System at HCMUTE
+2024 Embedded System at HCMUTE
 
 ## Hardware connection
  
