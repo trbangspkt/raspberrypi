@@ -33,7 +33,6 @@ int main(void) {
             // displayTemp(getTemp());  /* Display temperature on LED*/
             
             system("clear"); 
-            printf("Gyro Z Offsets: %f\n", getGyroZoffset());
             printf("=======================================================\n");
             printf("temp : %.2f\n\n", getTemp());
             printf("accX : %.2f\n", getAccX());
