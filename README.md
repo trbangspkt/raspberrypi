@@ -22,6 +22,14 @@ Download all file to the same path on raspberry.
   # Compile
   make
 
+  or
+
+  make build
+
+  or 
+
+  gcc example/getAllData.c -L. ./lib/libMPU6050.a -L. ./lib/libMAX7219.a -lm -li2c -o run
+
   # Run
   ./run
 ```
