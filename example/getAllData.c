@@ -16,7 +16,7 @@ int main(void) {
     loadSPI(); /* load SPI device */ 
     initMax7219(); /* set up max7219 */  
     system("clear"); 
-    displayTemp(0.0);
+    display1Angle(0.0);
     MPU6050_calcGyroOffsets(); /* Caculate GyroOffsets for 1st */
     // MPU6050_setGyroOffsets(11.256861, 2.518711, 1.223424); /* Set GyroOffsets */
 
