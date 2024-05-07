@@ -1,5 +1,5 @@
 # Code MPU6050 and MAX7219
-Embedded System at HCMUTE
+Embedded System at HCMUTE 1
 ## Wiring diagram raspberry with MPU6050 and max7219
 ![Image.](Connection.png)
 
