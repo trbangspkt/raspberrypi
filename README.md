@@ -20,7 +20,7 @@ Download all file to the same path on raspberry.
   cd path
 
   # Compile
-  gcc program.c -L. libMPU6050.a -o run -lm -li2c -L. libMAX7219.a 
+  make
 
   # Run
   ./run
