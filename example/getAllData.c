@@ -4,8 +4,9 @@
 #include <unistd.h>
 #include <string.h>
 #include <math.h>
-#include "MPU6050.h"
-#include "MAX7219.h"
+#include "../I2Cdev_MPU6050/MPU6050.h"
+#include "../SPIdev_MAX7219/MAX7219.h"
+
 long timer = 0;
 
 int main(void) {
