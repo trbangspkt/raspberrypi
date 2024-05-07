@@ -1,4 +1,4 @@
-# Code MPU6050 and MAX7219
+# Code MPU6050 and MAX7219 - Truong Thanh Bang
 2024 Embedded System at HCMUTE
 
 ## Hardware connection
