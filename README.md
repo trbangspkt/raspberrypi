@@ -21,7 +21,7 @@ Embedded System at HCMUTE
 Download all file to the same path on raspberry.
 
 ```
-  cd path
+  # cd "path"
 
   # Compile
   make
@@ -32,4 +32,14 @@ Download all file to the same path on raspberry.
 
   # Run
   ./run
+```
+## Create static libraries
+```
+  # cd "path"/lib
+
+  # First Step
+  make build
+
+  # Create static libraries
+  make create
 ```
