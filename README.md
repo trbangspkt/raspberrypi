@@ -18,8 +18,10 @@ Download `libMPU6050.a` and `libMAX7219.a` in `lib` folder and `getAllData.c` in
 
 ```
   cd path
+
   # Compile
   gcc getAlldata.c -o run -lm -li2c -L. libMPU6050.a -L. libMAX7219.a
+
   # Run
   ./run
 ```
