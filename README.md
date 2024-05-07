@@ -14,7 +14,7 @@ Embedded System at HCMUTE
 |                      |                 |   |          23         |       CLK       |  
 
 ## Compile and run the program
-Download `libMPU6050.a` and `libMAX7219.a` in `lib` folder and `getAllData.c` in `example` folder to the same path.
+Download `libMPU6050.a` and `libMAX7219.a` in `lib` folder and `getAllData.c` in `example` folder to the same path on raspberry.
 
 ```
   cd path
