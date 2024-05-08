@@ -18,6 +18,8 @@
 ![demo.](/pic/demo.jpg)
 
 ## Create static libraries
+Download all file to the same path on raspberry.
+
 ```
   # cd "path"/lib
 
